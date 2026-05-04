@@ -1,0 +1,11 @@
+Signal,Value,Source,As-Of
+Insider Selling,0.0000060,Article 19 PDMR notifications (Globenewswire / Danish FSA OAM),2026-02-10
+Book-to-Market,0.1602,20-F FY 12/31/25 (book equity); Yahoo! Finance NOVO-B close (market cap),2026-04-30
+Momentum,-0.6085,Yahoo! Finance (NVO ADR; S&P 500 benchmark),2026-03-31
+Gross Profitability,0.4610,20-F FY 12/31/25,2025-12-31
+Earnings Surprise,-0.0008,6-K filed 2/3/26; WRDS IBES (Q1-Q3 2025 actuals; FY consensus); Yahoo! Finance NOVO-B price,2026-02-03
+SUE,-0.0008,6-K filed 2/3/26; WRDS IBES (Q1-Q3 2025 actuals; Q4 2024 actual); Yahoo! Finance NOVO-B price,2026-02-03
+F-Score,5,20-F FY 12/31/25 vs. 12/31/24,2025-12-31
+External Financing,0.0430,20-F FY 12/31/25 (financing activities),2025-12-31
+Volatility,0.0333,Yahoo! Finance (NVO ADR daily adjusted close),2026-04-30
+Accruals,-0.0307,20-F FY 12/31/25,2025-12-31

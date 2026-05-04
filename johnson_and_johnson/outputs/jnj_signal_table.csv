@@ -1,0 +1,11 @@
+Signal,Value,Source,As-Of
+Insider Selling,0,SEC Form 4 filings,2026-04-30
+Book-to-Market,0.1474,10-K for the fiscal year ending 12/28/25; Yahoo! Finance,2026-04-30
+Momentum,0.3517,Yahoo! Finance,2026-03-31
+Gross Profitability,0.3210,10-K for the fiscal year ending 12/28/25,2025-12-28
+Earnings Surprise,0.0001,8-K earnings release filed 1/21/26; WRDS IBES; Yahoo! Finance,2026-01-21
+SUE,0.0020,8-K earnings release filed 1/21/26; WRDS IBES; Yahoo! Finance,2026-01-21
+F-Score,3,10-K for the fiscal year ending 12/28/25,2025-12-28
+External Financing,0.0243,10-K for the fiscal year ending 12/28/25,2025-12-28
+Volatility,0.0106,Yahoo! Finance,2026-04-30
+Accruals,0.0114,10-K for the fiscal year ending 12/28/25,2025-12-28
